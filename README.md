@@ -41,19 +41,6 @@ Immediate Feedback.
 Be prepared for situations. 
 Learn from mistakes. 
 No risks. 
-
-# Weakness
-
-Cost. VR training such as VirtualSpeech can cost upwards of $300 for students.
-Mild Nausea (Rating 3) in Construction VR.
-Larger Space Requirement. 
-
-# Conclusion
-
-With VR, it’s easier to take your learners to any part of the world. Make them learn about other people’s experience, and how they can interact with their environment. VR is a technology that provides learners with a better and new way of learning.
-
-In conclusion, now is the right time for instructors and L&D professionals to start introducing virtual reality into their blended learning. It’s becoming cheaper to employ, hence the need to start using it to better impact learning and development. Investing in virtual reality technology for L&D and businesses is a good move as it helps to deliver engaging and immersive learning experience.
-
                                           
 # MNC's: Companies such as VirtualSpeech are providing VR training for Soft Skills.
 
@@ -71,3 +58,16 @@ Via their Occulus Rift Goggle headset, in the simulated real-world scenarios, st
 When staff face each scenario they will be asked awareness-building multiple choice-questions such as to explain what impact the spill could have on the store.
 
 Similar Application: Newired (uses windows and Saas) and Lobaki (uses SaaS)
+
+# Weakness
+
+Cost. VR training such as VirtualSpeech can cost upwards of $300 for students.
+Mild Nausea (Rating 3) in Construction VR.
+Larger Space Requirement. 
+
+# Conclusion
+
+With VR, it’s easier to take your learners to any part of the world. Make them learn about other people’s experience, and how they can interact with their environment. VR is a technology that provides learners with a better and new way of learning.
+
+In conclusion, now is the right time for instructors and L&D professionals to start introducing virtual reality into their blended learning. It’s becoming cheaper to employ, hence the need to start using it to better impact learning and development. Investing in virtual reality technology for L&D and businesses is a good move as it helps to deliver engaging and immersive learning experience.
+
