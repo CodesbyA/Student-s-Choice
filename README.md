@@ -17,19 +17,19 @@ The training includes:
 
 Harness inspection: The user inspects the floating harness and checks for damages.
 Working at heights awareness: The scenario is based in a high rise downtown where the user is tasked with picking up tools and attaching it to lanyard and walk on a walkway without a guardrail to look over the edge.
-
- Hazard Recognition: Trains up to dozens of employees at one time where trainees are challenged to explore photo-realistic 3D work spaces to identify and correct literally millions of randomized potential safety hazards. It has real-time scoring and analytics.                                                                                                                                                                       Similar Applications: PIXO VR (More options)
+Hazard Recognition: Trains up to dozens of employees at one time where trainees are challenged to explore photo-realistic 3D work spaces to identify and correct literally millions of randomized potential safety hazards. It has real-time scoring and analytics.                                                                                                                                                                       Similar Applications: PIXO VR (More options)
  
 # Medical Sector: HumanSim provides training in Anesthesia, Sedation and Airway.
 One of the VR applications launched in medical sector is HumanSim. HumanSim is a virtual trainer for administering emergency anesthesia and managing breathing.
 The software was developed by Virtual Heroes for the Army's Telemedicine & Advanced Technology Research Center (TATRC), is available to the public.
 It provides an immersive 3D training environment with an advanced physiology engine. The software allows physicians, nurses, medics, and other emergency personnel to practice Rapid Sequence Induction (RSI) and Moderate Sedation, techniques for quickly sedating and intubating critically injured patients. Trainees are challenged by ten separate scenarios, with patient complications such as airway trauma and multiple drug interactions, covering a very wide variety of patient situations.  
-Similar Application: Osso VR (Focuses on Surgeons, Sales Team and Hospital Staff)
+It implements unreal engine. 
+Similar Application are Osso VR (Focuses on Surgeons, Sales Team and Hospital Staff). 
 
 # Universities: University of Alabama is currently training police officers using VR to react to "shoot, don't shoot" situations measuring brain waves during the training.
 
 University of Alabama is currently researching  to learn how police officers react to 'shoot, don't shoot' situations by measuring brain waves during virtual reality police training.
- The researchers use mobile electroencephalogram, or EEG, amplifier to measure the brain activity of three law enforcement officers to determine which regions of the brain are active during simulations of potentially high-threat situations.
+ The researchers use mobile electroencephalogram, or EEG, amplifier to measure the brain activity of three law enforcement officers to determine which regions of the brain are active during simulations of potentially high-threat situations. The researchers use VirTra, a police training simulator that uses a large single screen with more than 100 scenarios that police officers face while on the job, like traffic stops, domestic disputes and distress calls. Officers use firearms with air cartridges during the simulation and are graded based on their actions, reaction times and the desired outcome of each scenario.
 The researchers also measure the effectiveness of verbal commands used to de-escalate situations. They note the commands and the time as it relates to the EEG and rely on two seasoned officers to evaluate the responses and establish reliability.
 Similar Application: Apex Officer (Not a research project but an actual VR implemented for police officers)
 
